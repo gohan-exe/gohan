@@ -7,6 +7,6 @@
 
 <div align="center">
   <a href="https://github.com/gohan-exe">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gohan-exe&show_icons=true&theme=red&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gohan-exe&layout=compact&langs_count=7&theme=red"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gohan-exe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gohan-exe&layout=compact&langs_count=7&theme=dark"/>
 </div>
